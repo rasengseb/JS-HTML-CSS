@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/Introduction_JQuery/ressources" />
+            <path value="file://$PROJECT_DIR$/Introduction_JQuery/activite/ressources" />
           </resourceRoots>
         </entryData>
       </entry>
